@@ -1,4 +1,4 @@
-This repository contains the source code for a cosmetic website developed using HTML, CSS, and JavaScript.
+This repository contains the source code for a cosmetic website developed using HTML, CSS, JavaScript PHP and MySQL..
 
 Getting Started
 To get the code from this repository, follow these steps:
